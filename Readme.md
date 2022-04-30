@@ -6,3 +6,5 @@ Vehicle routing is one of the most famous problems in the field of computational
 - Here we collect data using dbsqlite and convert to csv format for storage.
 - Using greedy apporach we maximize the profit based on value/weight ratio.
 - Since we cant take fractionally an item we either take it completely or leave it.
+## System Design
+![DSA](https://user-images.githubusercontent.com/74369688/166103724-5f55d5b8-3989-49a6-a4b5-fe4ee18defe9.png)
